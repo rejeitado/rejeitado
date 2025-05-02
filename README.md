@@ -5,7 +5,7 @@ Me chamo Igor Figueiredo da Silva, tenho 25 anos e sou natural da Paraíba. Sou 
 
 <p align="left">
     </a> 
-        <a href="https://github.com/rejeitado?tab=followers">
+        <a href="https://www.linkedin.com/in/rejeitado/">
         <img 
             alt="LinkedIN" 
             title="Acesse o meu LinkedIN" 
