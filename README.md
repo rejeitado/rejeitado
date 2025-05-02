@@ -1,29 +1,15 @@
-# 👨‍💻 Rejeitado
-**`Desenvolvedor`**
+# Rejeitado
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Desenvolvedor%3F%3F%3F)](https://git.io/typing-svg)
 
 Me chamo Igor Figueiredo da Silva, tenho 25 anos e sou natural da Paraíba. Sou formado em Ciência da Computação pela Universidade do Estado do Rio Grande do Norte (UERN).
 
-<p align="left">
+<p align="center">
     </a> 
         <a href="https://www.linkedin.com/in/rejeitado/">
         <img 
             alt="LinkedIN" 
             title="Acesse o meu LinkedIN" 
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
-        />
-    </a> 
-        <a href="https://github.com/rejeitado?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/rejeitado?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/rejeitado?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/rejeitado?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
 </p>
@@ -144,7 +130,6 @@ Me chamo Igor Figueiredo da Silva, tenho 25 anos e sou natural da Paraíba. Sou 
 
 ### 📊 Estatísticas
 
-
 <p>
     <img 
       align="left" 
@@ -152,11 +137,5 @@ Me chamo Igor Figueiredo da Silva, tenho 25 anos e sou natural da Paraíba. Sou 
       height="190" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rejeitado&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
- <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="190" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rejeitado&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
 
 </p>
