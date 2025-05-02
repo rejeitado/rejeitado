@@ -1,8 +1,7 @@
 # Rejeitado
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Desenvolvedor%3F%3F%3F)](https://git.io/typing-svg)
 
-Me chamo Igor Figueiredo da Silva, tenho 25 anos e sou natural da Paraíba. Sou formado em Ciência da Computação pela Universidade do Estado do Rio Grande do Norte (UERN).
-
+Me chamo Igor Figueiredo da Silva, tenho 25 anos e sou natural da Paraíba. Graduado em Ciência da Computação pela Universidade do Estado do Rio Grande do Norte (UERN), com experiência no desenvolvimento de jogos, soluções tecnológicas e gestão de ambientes educacionais.
 <p align="center">
     </a> 
         <a href="https://www.linkedin.com/in/rejeitado/">
