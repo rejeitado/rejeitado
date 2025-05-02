@@ -169,7 +169,7 @@ Me chamo Igor Figueiredo da Silva, tenho 25 anos e sou natural da Paraíba. Sou 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rejeitado&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rejeitado&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
