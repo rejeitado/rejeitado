@@ -42,22 +42,6 @@ Me chamo Igor Figueiredo da Silva, tenho 25 anos e sou natural da Paraíba. Sou 
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
     alt="C#" 
     title="C#"
     width="30px" 
@@ -130,8 +114,8 @@ Me chamo Igor Figueiredo da Silva, tenho 25 anos e sou natural da Paraíba. Sou 
 />
 <img 
     align="left" 
-    alt="Postman" 
-    title="Postman"
+    alt="PostMan" 
+    title="PostMan"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
@@ -143,14 +127,6 @@ Me chamo Igor Figueiredo da Silva, tenho 25 anos e sou natural da Paraíba. Sou 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
 <img 
     align="left" 
