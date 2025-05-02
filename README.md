@@ -76,14 +76,6 @@ Me chamo Igor Figueiredo da Silva, tenho 25 anos e sou natural da Paraíba. Sou 
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
     alt="MySQL" 
     title="MySQL"
     width="30px" 
