@@ -83,14 +83,6 @@ Me chamo Igor Figueiredo da Silva, tenho 25 anos e sou natural da Paraíba. Grad
 />
 <img 
     align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
     alt="PostMan" 
     title="PostMan"
     width="30px" 
