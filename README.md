@@ -1,17 +1,14 @@
-# Igor Figueiredo
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DF1AF7&width=435&lines=Estudante+%3F%3F%3F)](https://git.io/typing-svg)
-
-Graduado em Ciência da Computação pela Universidade do Estado do Rio Grande do Norte (UERN), com experiência no desenvolvimento de jogos, soluções tecnológicas e gestão de ambientes educacionais.
-<p align="center">
-    </a> 
-        <a href="https://www.linkedin.com/in/rejeitado/">
-        <img 
-            alt="LinkedIN" 
-            title="Acesse o meu LinkedIN" 
-            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
-        />
-    </a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DF1AF7&width=435&lines=Olá,+me+chamo+Igor+Figueiredo!)](https://git.io/typing-svg)
+<p align="left">
+Desenvolvedor e pesquisador de jogos e gestão de ambiente virtual de aprendizagem.
+Tenho focado meus estudos em SLM e LLM.
 </p>
+
+## Sobre mim
+
+- 🎓 Graduado em Ciência da Computação pela UERN
+- 📚 Estudando Analise de Dados, DataScience e IA
+- 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
 
 ---
 
@@ -92,3 +89,15 @@ Graduado em Ciência da Computação pela Universidade do Estado do Rio Grande d
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rejeitado&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rejeitado&layout=compact&langs_count=6&theme=radical"/>
 
+---
+
+<p align="center">
+    </a> 
+        <a href="https://www.linkedin.com/in/rejeitado/">
+        <img 
+            alt="LinkedIN" 
+            title="Acesse o meu LinkedIN" 
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
+        />
+    </a>
+</p>
