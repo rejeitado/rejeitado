@@ -1,7 +1,7 @@
-# Rejeitado
+# Igor Figueiredo
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DF1AF7&width=435&lines=Estudante+%3F%3F%3F)](https://git.io/typing-svg)
 
-Me chamo Igor Figueiredo da Silva, tenho 25 anos e sou natural da Paraíba. Graduado em Ciência da Computação pela Universidade do Estado do Rio Grande do Norte (UERN), com experiência no desenvolvimento de jogos, soluções tecnológicas e gestão de ambientes educacionais.
+Graduado em Ciência da Computação pela Universidade do Estado do Rio Grande do Norte (UERN), com experiência no desenvolvimento de jogos, soluções tecnológicas e gestão de ambientes educacionais.
 <p align="center">
     </a> 
         <a href="https://www.linkedin.com/in/rejeitado/">
@@ -87,14 +87,8 @@ Me chamo Igor Figueiredo da Silva, tenho 25 anos e sou natural da Paraíba. Grad
 
 ---
 
-### 📊 Estatísticas
+## ⭐ GitHub Stats
+<a href="https://github.com/rejeitado">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rejeitado&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rejeitado&layout=compact&langs_count=6&theme=radical"/>
 
-<p>
-    <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="190" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rejeitado&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
-  />
-
-</p>
